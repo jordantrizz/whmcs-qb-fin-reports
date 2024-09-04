@@ -1,4 +1,4 @@
-# whmcs-qb-fin-repoerts
+# whmcs-qb-fin-reports
 A collection of python scripts that generate financial reports for WHMCS and QuickBooks.
 
 # Install
