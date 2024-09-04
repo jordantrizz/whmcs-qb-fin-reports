@@ -1,0 +1,6 @@
+mysql-connector-python-rf
+python-dotenv==0.19.0
+tabulate
+python-quickbooks
+requests
+
